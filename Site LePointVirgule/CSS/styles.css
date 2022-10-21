@@ -1,0 +1,57 @@
+   
+    div#pied{
+        height: 22.25%;
+        background: red;
+    }
+   
+        .intrologo
+        {
+            width: 300px;
+            display: block;
+            margin: auto;
+            vertical-align: center;
+         
+        }
+        #test{
+            width: 450px;
+            height: 250px;
+        }
+        #intro3
+        {
+            
+            width: 300px;
+            height: 275px;
+        
+        }
+        .intro2
+        {
+         
+            height: 275px;
+            width: 300px;
+            display: block;
+            margin: auto;
+            vertical-align: center;
+        
+        }
+       td#couleur{ 
+        width:50%;
+        background: rgb(235, 233, 233);
+       }
+    #test2{
+        width: 660px;
+         height: 287px;
+         vertical-align: auto;
+       
+    }
+    .intro3{
+    width: 100px;
+            display: block;
+            margin: auto;   
+    
+        }
+        div#fin{
+        height: 100%;
+        background: grey;
+    }
+
+
